@@ -8,5 +8,6 @@ namespace Tyuiu.SklyarovAM.Sprint6.Task0.V21.Lib
 {
     public class Class1
     {
+
     }
 }
