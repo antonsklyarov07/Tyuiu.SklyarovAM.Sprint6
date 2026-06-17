@@ -4,7 +4,11 @@
     <Project Path="Tyuiu.SklyarovAM.Sprint6.Task0.V21.Test/Tyuiu.SklyarovAM.Sprint6.Task0.V21.Test.csproj" Id="181d2086-a048-4a2b-96d3-fbbaae70eb64" />
     <Project Path="Tyuiu.SklyarovAM.Sprint6.Task0.V21/Tyuiu.SklyarovAM.Sprint6.Task0.V21.csproj" Id="eef0fe72-a208-4457-8e56-4b9456b3fe5c" />
   </Folder>
-  <Folder Name="/Task1/" />
+  <Folder Name="/Task1/">
+    <Project Path="Tyuiu.SklyarovAM.Sprint6.Task1.V2.Lib/Tyuiu.SklyarovAM.Sprint6.Task1.V2.Lib.csproj" Id="09b8700a-3457-43bb-9d3b-1abaca435d30" />
+    <Project Path="Tyuiu.SklyarovAM.Sprint6.Task1.V2.Test/Tyuiu.SklyarovAM.Sprint6.Task1.V2.Test.csproj" Id="4c1fb4e0-2024-4f6e-8fc1-8ece64ae991d" />
+    <Project Path="Tyuiu.SklyarovAM.Sprint6.Task1.V2/Tyuiu.SklyarovAM.Sprint6.Task1.V2.csproj" Id="605e5aa0-4e2b-449b-9175-ea484b79a3be" />
+  </Folder>
   <Folder Name="/Task2/" />
   <Folder Name="/Task3/" />
   <Folder Name="/Task4/" />
